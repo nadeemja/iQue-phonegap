@@ -6,14 +6,14 @@
         id        = "com.ique.mobile"
         version   = "1.0.1">
 
-    <name>iQue Beta mobile</name>
+    <name>Qui Beta</name>
 
     <description>
         Forelesningsappen!
     </description>
 
-    <author href="http://medisinstudiet.no" email="nadqur@gmail.com">
-        PhoneGap Team
+    <author href="http://nadeem.no" email="nadqur@gmail.com">
+        Qui Team
     </author>
 
     <!--
